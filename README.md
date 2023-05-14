@@ -1,6 +1,9 @@
 # Dog-sentiment-analysis
 This project takes a dog image and classifies it into sad, happy or angry!
 
+
+
+# The Api code is contained inside the zip file
 The main file (techdome.ipynb) contains two methods of making a model for recognizing dog emotions, the first model is however more succesful and used for our api.
 there are some differences in pre processing and data generation techniques used for the two models apart from their architectures.
 

@@ -6,5 +6,7 @@ there are some differences in pre processing and data generation techniques used
 
 The final model is available at: https://drive.google.com/file/d/11CwNHMxTkEpl-qlypckDuGsJfV6E5qYb/view?usp=share_link
 Please put the model in the same directory as the code.
+
+
 ![image](https://github.com/Rakshit2214/Dog-sentiment-analysis/assets/75312508/1357b310-ebf2-4536-aad2-ab8ceb833d2a)
 
